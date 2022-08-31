@@ -1,5 +1,5 @@
 # Command4py
-### "A class based command line application library"
+### ~ A class based command line application library
 
 
 HOW TO USE:
