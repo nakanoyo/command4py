@@ -3,7 +3,7 @@ Command4Py is a class based command line application library. You can build a co
 
 ### HOW TO USE:
 - You can download the repository and put the **command4py** folder to the root directory of your python project 
-- You can just download the **full.py** file in **command4py** directory It's the bundle file for all the source code
+- You can just download the **bundle.py** file in **command4py** directory It's the bundle file for all the source code
 
 ### TO DO:
 - Add the typing feature so type annotation will be translated into the argument type in argparse
