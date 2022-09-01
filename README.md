@@ -7,3 +7,6 @@ Command4Py is a class based command line application library. You can build a co
 
 ### TO DO:
 - Add the typing feature so type annotation will be translated into the argument type in argparse
+
+### Notes:
+- Usually I update the **bundle.py** first before update the rest of the module
