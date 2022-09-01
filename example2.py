@@ -1,7 +1,7 @@
 # Build automation with python
 
 from abc import abstractmethod
-from .bundle import Program, command, run
+from command4py import Program, command, run
 import shutil
 from os import mkdir, listdir, system
 from pathlib import Path
